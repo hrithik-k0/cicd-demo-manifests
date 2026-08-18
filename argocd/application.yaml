@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<your-username>/cicd-demo-manifests.git
+    repoURL: https://github.com/hrithik-k0/cicd-demo-manifests.git
     targetRevision: main
     path: base
 
