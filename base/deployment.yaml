@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cicd-demo-app
-          image: 951066974776.dkr.ecr.us-east-1.amazonaws.com/cicd-demo-app:latest
+          image: 951066974776.dkr.ecr.ap-south-1.amazonaws.com/cicd-demo-app:785c1b7
           ports:
             - containerPort: 5000
           resources:
